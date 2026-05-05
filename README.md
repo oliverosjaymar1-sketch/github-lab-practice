@@ -1,1 +1,1 @@
-Initial Project
+This is Student A's Project.
