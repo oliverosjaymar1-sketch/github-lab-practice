@@ -1,1 +1,1 @@
-Initial Project
+"This is a Collaborative Project." 
